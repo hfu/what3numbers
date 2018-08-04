@@ -7,5 +7,8 @@ I want to give a catchy name for the slippy map tilenames tile number.
 ## Specifications
 what3numbers is the tile number in slippy map tilenames concatenated by hyphens('-') in the [z, x, y] order, e.g., 2-3-1.
 
+## Actual applications
+- what3numbers is in [module-spec](https://github.com/hfu/module-spec). The module-spec is used in producing vector tile datasets.
+
 ## Site
 To be developed at https://hfu.github.io/what3numbers
