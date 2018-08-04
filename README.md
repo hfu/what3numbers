@@ -2,7 +2,7 @@
 [z, x, y] as a space partitioning code
 
 ## Background
-I want to give a catchy name for the slippy map tilenames tile number.
+I want to give a catchy name for the [slippy map tilenames](https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames) tile number.
 
 ## Specifications
 A what3numbers is the tile number in slippy map tilenames concatenated by hyphens('-') in the [z, x, y] order, e.g., 2-3-1.
