@@ -12,3 +12,6 @@ what3numbers is the tile number in slippy map tilenames concatenated by hyphens(
 
 ## Site
 To be developed at https://hfu.github.io/what3numbers
+
+## See also
+- [what2numbers](https://what2numbers.org) is a great way to identify an exact location, rather than a partition of space. 
