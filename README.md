@@ -1,5 +1,5 @@
 # what3numbers
-[z, x, y] as a space partitioning code
+[z, x, y] of [slippy map tilenames](https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames) as a space partitioning code, in the form of {z}-{x}-{y}.
 
 ## Background
 I want to give a catchy name for the [slippy map tilenames](https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames) tile number.
