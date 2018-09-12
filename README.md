@@ -8,7 +8,7 @@ I wanted to give a catchy name for the [slippy map tilenames](https://wiki.opens
 A what3numbers is the tile number in slippy map tilenames concatenated by hyphens('-') in the [z, x, y] order, e.g., 2-3-1.
 
 ## See also
-- [what2numbers](https://what2numbers.org) is a great way to identify an exact location, rather than a partition of space. 
+- [what2numbers](https://what2numbers.org) is a way to identify an exact location, rather than a partition of space. 
 
 ## [License](LICENSE)
 All of works in this repository are under the Unlicense.
